@@ -1,3 +1,4 @@
-# Stuff
 
-to run a ngrok tunnel to the function: `ngrok.exe http -hostname=trollcode.eu.ngrok.io -region=eu 7071`
+# durable-function-telegram
+
+A POC for a telegram bot using Azure Durable Function
